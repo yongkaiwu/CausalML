@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: Causality in AI
+description: A comprehensive collection of the latest peer-reviewed papers, tutorials, resources, etc. related to Causality in Artificial Intelligence.
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-111279954-1
+timezone: America/Chicago
