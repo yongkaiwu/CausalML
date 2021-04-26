@@ -1,5 +1,60 @@
 # Conference Papers
 
+## 2021
+
+### [AAAI 2021](https://dblp.uni-trier.de/db/conf/aaai/aaai2021.html)
+
+> TBD
+
+### [AISTATS 2021](https://dblp.uni-trier.de/db/conf/aistats/aistats2021.html)
+
+> TBD
+
+### [BIGDATA 2021](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2021.html)
+
+> TBD
+
+### [CIKM 2021](https://dblp.uni-trier.de/db/conf/cikm/cikm2021.html)
+
+> TBD
+
+### [FAT\* 2021](https://dblp.uni-trier.de/db/conf/fat/fat2021.html)
+
+> TBD
+
+### [ICDM 2021](https://dblp.uni-trier.de/db/conf/icdm/icdm2021.html)
+
+> TBD
+
+### [ICML 2021](https://dblp.uni-trier.de/db/conf/icml/icml2021.html)
+
+> TBD
+
+### [IJCAI 2021](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2021.html)
+
+> TBD
+
+### [KDD 2021](https://dblp.uni-trier.de/db/conf/kdd/kdd2021.html)
+
+> TBD
+
+### [NIPS 2021](https://dblp.uni-trier.de/db/conf/nips/nips2021.html)
+
+
+### [SDM 2021](https://dblp.uni-trier.de/db/conf/sdm/sdm2021.html)
+
+> TBD
+
+### [UAI 2021](https://dblp.uni-trier.de/db/conf/uai/uai2021.html)
+
+> TBD
+
+### [WWW 2021](https://dblp.uni-trier.de/db/conf/www/www2021.html)
+
+> TBD
+
+### Others 2021
+
 ## 2020
 
 ### [AAAI 2020](https://dblp.uni-trier.de/db/conf/aaai/aaai2020.html)
