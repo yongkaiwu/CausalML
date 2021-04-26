@@ -8,7 +8,13 @@
 
 ### [AISTATS 2021](https://dblp.uni-trier.de/db/conf/aistats/aistats2021.html)
 
-> TBD
+- [Regret Minimization for Causal Inference on Large Treatment Space.](http://proceedings.mlr.press/v130/tanimoto21a.html)
+- [Exploiting Equality Constraints in Causal Inference.](http://proceedings.mlr.press/v130/zhang21c.html)
+- [Counterfactual Representation Learning with Balancing Weights.](http://proceedings.mlr.press/v130/assaad21a.html)
+- [Differentiable Causal Discovery Under Unmeasured Confounding.](http://proceedings.mlr.press/v130/bhattacharya21a.html)
+- [Causal Inference with Selectively Deconfounded Data.](http://proceedings.mlr.press/v130/gan21a.html)
+- [Causal Modeling with Stochastic Confounders.](http://proceedings.mlr.press/v130/vinh-vo21a.html)
+- [Causal Inference under Networked Interference and Intervention Policy Enhancement.](http://proceedings.mlr.press/v130/ma21c.html)
 
 ### [BIGDATA 2021](https://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2021.html)
 
