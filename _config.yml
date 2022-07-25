@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Causality in AI
-description: A comprehensive collection of the latest peer-reviewed papers, tutorials, resources, etc. related to Causality in Artificial Intelligence.
+title: Causality in Machine Learning
+description: A comprehensive collection of the latest peer-reviewed papers, tutorials, resources, etc. related to Causality in Machine Learning.
 plugins:
   - jekyll-seo-tag
 google_analytics: UA-111279954-1
