@@ -196,7 +196,15 @@
 
 ### [IJCAI 2022](https://dblp.org/db/conf/ijcai/ijcai2022.html)
 
-> TBA
+- [BayCon: Model-agnostic Bayesian Counterfactual Generator.](https://doi.org/10.24963/ijcai.2022/104)
+- [To Trust or Not To Trust Prediction Scores for Membership Inference Attacks.](https://doi.org/10.24963/ijcai.2022/422)
+- [Ancestral Instrument Method for Causal Inference without Complete Knowledge.](https://doi.org/10.24963/ijcai.2022/671)
+- [Empirical Bayesian Approaches for Robust Constraint-based Causal Discovery under Insufficient Data.](https://doi.org/10.24963/ijcai.2022/672)
+- [Learning Cluster Causal Diagrams: An Information-Theoretic Approach.](https://doi.org/10.24963/ijcai.2022/675)
+- [Linear Combinatorial Semi-Bandit with Causally Related Rewards.](https://doi.org/10.24963/ijcai.2022/676)
+- [DPVI: A Dynamic-Weight Particle-Based Variational Inference Framework.](https://doi.org/10.24963/ijcai.2022/679)
+- [ADVISER: AI-Driven Vaccination Intervention Optimiser for Increasing Vaccine Uptake in Nigeria.](https://doi.org/10.24963/ijcai.2022/712)
+- [On the Opportunity of Causal Learning in Recommendation Systems: Foundation, Estimation, Prediction and Challenges.](https://doi.org/10.24963/ijcai.2022/787)
 
 ### [IJCNN 2022](https://dblp.org/db/conf/ijcnn/ijcnn2022.html)
 
