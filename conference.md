@@ -212,7 +212,22 @@
 
 ### [KDD 2022](https://dblp.org/db/conf/kdd/kdd2022.html)
 
-> TBA
+- [Variational Inference for Training Graph Neural Networks in Low-Data Regime through Joint Structure-Label Estimation.](https://doi.org/10.1145/3534678.3539283)
+- [Learning Causal Effects on Hypergraphs.](https://doi.org/10.1145/3534678.3539299)
+- [ML4S: Learning Causal Skeleton from Vicinal Graphs.](https://doi.org/10.1145/3534678.3539447)
+- [DICE: Domain-attack Invariant Causal Learning for Improved Data Privacy Protection and Adversarial Robustness.](https://doi.org/10.1145/3534678.3539242)
+- [Causal Attention for Interpretable and Generalizable Graph Classification.](https://doi.org/10.1145/3534678.3539366)
+- [Estimating Individualized Causal Effect with Confounded Instruments.](https://doi.org/10.1145/3534678.3539335)
+- [Causal Discovery on Non-Euclidean Data.](https://doi.org/10.1145/3534678.3539485)
+- [Ask to Know More: Generating Counterfactual Explanations for Fake Claims.](https://doi.org/10.1145/3534678.3539205)
+- [Precise Mobility Intervention for Epidemic Control Using Unobservable Information via Deep Reinforcement Learning.](https://doi.org/10.1145/3534678.3539195)
+- [Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition.](https://doi.org/10.1145/3534678.3539041)
+- [ASPIRE: Air Shipping Recommendation for E-commerce Products via Causal Inference Framework.](https://doi.org/10.1145/3534678.3539197)
+- [Counterfactual Phenotyping with Censored Time-to-Events.](https://doi.org/10.1145/3534678.3539110)
+- [What is the Most Effective Intervention to Increase Job Retention for this Disabled Worker?](https://doi.org/10.1145/3534678.3539026)
+- [CausalInt: Causal Inspired Intervention for Multi-Scenario Recommendation.](https://doi.org/10.1145/3534678.3539221)
+- [CausalMTA: Eliminating the User Confounding Bias for Causal Multi-touch Attribution.](https://doi.org/10.1145/3534678.3539108)
+- [Counterfactual Evaluation and Learning for Interactive Systems: Foundations, Implementations, and Recent Advances.](https://doi.org/10.1145/3534678.3542601)
 
 ### [NIPS 2022](https://dblp.org/db/conf/nips/neurips2022.html)
 
