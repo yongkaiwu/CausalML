@@ -192,7 +192,18 @@
 
 ### [ICLR 2022](https://dblp.org/db/conf/iclr/iclr2022.html)
 
-> TBA
+- [Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks.](https://openreview.net/forum?id=avgclFZ221l)
+- [Filtered-CoPhy: Unsupervised Learning of Counterfactual Physics in Pixel Space.](https://openreview.net/forum?id=1L0C5ROtFp)
+- [Invariant Causal Representation Learning for Out-of-Distribution Generalization.](https://openreview.net/forum?id=-e4EXDWXnSn)
+- [Adversarial Robustness Through the Lens of Causality.](https://openreview.net/forum?id=cZAi1yWpiXQ)
+- [Granger causal inference on DAGs identifies genomic loci regulating transcription.](https://openreview.net/forum?id=nZOUYEN6Wvy)
+- [Consistent Counterfactuals for Deep Models.](https://openreview.net/forum?id=St6eyiTEHnG)
+- [Causal Contextual Bandits with Targeted Interventions.](https://openreview.net/forum?id=F5Em8ASCosV)
+- [Efficient Neural Causal Discovery without Acyclicity Constraints.](https://openreview.net/forum?id=eYciPrLuUhG)
+- [Learning Temporally Causal Latent Processes from General Temporal Data.](https://openreview.net/forum?id=RDlLMjLJXdq)
+- [$\beta$-Intact-VAE: Identifying and Estimating Causal Effects under Limited Overlap.](https://openreview.net/forum?id=q7n2RngwOM)
+- [Optimal Transport for Causal Discovery.](https://openreview.net/forum?id=qwBK94cP1y)
+- [Learning Causal Models from Conditional Moment Restrictions by Importance Weighting.](https://openreview.net/forum?id=7twQI5VnC8)
 
 ### [IJCAI 2022](https://dblp.org/db/conf/ijcai/ijcai2022.html)
 
