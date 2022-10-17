@@ -250,7 +250,23 @@
 
 ### [UAI 2022](https://dblp.org/db/conf/uai/uai2022.html)
 
-> TBA
+- [Non-parametric inference of relational dependence.](https://proceedings.mlr.press/v180/ahsan22a.html)
+- [Learning soft interventions in complex equilibrium systems.](https://proceedings.mlr.press/v180/besserve22a.html)
+- [On the definition and computation of causal treewidth.](https://proceedings.mlr.press/v180/chen22f.html)
+- [Counterfactual inference of second Opinions.](https://proceedings.mlr.press/v180/corvelo-benz22a.html)
+- [A causal bandit approach to learning good atomic interventions in presence of unobserved confounders.](https://proceedings.mlr.press/v180/maiti22a.html)
+- [Semiparametric causal sufficient dimension reduction of multidimensional treatments.](https://proceedings.mlr.press/v180/nabi22a.html)
+- [Partially adaptive regularized multiple regression analysis for estimating linear causal effects.](https://proceedings.mlr.press/v180/nanmo22a.html)
+- [CounteRGAN: Generating counterfactuals for real-time recourse and interpretability using residual GANs.](https://proceedings.mlr.press/v180/nemirovsky22a.html)
+- [Ordinal causal discovery.](https://proceedings.mlr.press/v180/ni22a.html)
+- [Identifiability of sparse causal effects using instrumental variables.](https://proceedings.mlr.press/v180/pfister22a.html)
+- [Robust identifiability in linear structural equation models of causal inference.](https://proceedings.mlr.press/v180/sankararaman22a.html)
+- [Causal forecasting: generalization bounds for autoregressive models.](https://proceedings.mlr.press/v180/vankadara22a.html)
+- [Intervention target estimation in the presence of latent variables.](https://proceedings.mlr.press/v180/varici22a.html)
+- [Bayesian federated estimation of causal effects from observational data.](https://proceedings.mlr.press/v180/vo22a.html)
+- [Causal discovery under a confounder blanket.](https://proceedings.mlr.press/v180/watson22a.html)
+- [Causal discovery with heterogeneous observational data.](https://proceedings.mlr.press/v180/zhou22a.html)
+- [Causal inference with treatment measurement error: a nonparametric instrumental variable approach.](https://proceedings.mlr.press/v180/zhu22a.html)
 
 ### [WWW 2022](https://dblp.org/db/conf/www/www2022.html)
 
